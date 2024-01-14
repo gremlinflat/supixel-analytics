@@ -260,6 +260,7 @@ class RealESRGANer():
     def post_process(self):
         # remove extra pad
         if self.mod_scale is not None:
+            print("mod scale is not none", self.mod_scale)
             _, _, h, w = self.output.size()
             self.output = self.output[:, :, 0:h - self.mod_pad_h * self.scale, 0:w - self.mod_pad_w * self.scale]
         # remove prepad
@@ -357,7 +358,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     device = torch.device('mps')
-
+    print(args.outscale)
     if args.model_name == 'srvgg':
         model = SRVGGNetCompact(
             num_in_ch=3,
@@ -372,22 +373,20 @@ if __name__ == '__main__':
         model = RRDBNet(num_in_ch=3, num_out_ch=3, num_feat=64, num_block=23)
         model_path = './FNX4_Generic_/FNX4_Generic_RRDB/models/net_g_latest.pth'
 
-    
+    scale = int(args.outscale)
+
     img = cv2.imread(args.input, cv2.IMREAD_UNCHANGED)
-    print(img.shape)
+    w, h = img.shape[0:2]
+    
+    if w > 2000 or h > 2000:
+        tile_size = 1000
+    elif w > 1000 or h > 1000:
+        tile_size = 500
+    else:
+        tile_size = 0
 
-    tile = 4
-    # if img.shape[0] > 1000 or img.shape[1] > 1000:
-    #     print('Input image is too large, enable tile processing.')
-    #     # find the proper tile size
-    #     w = img.shape[1]
-    #     h = img.shape[0]
-
-    #     # find tile that could devide w and h by 4 
-        
-
-    enhancer = RealESRGANer(scale=args.outscale, model=model, model_path=model_path, tile=tile, tile_pad=10, pre_pad=0, half=False, device=device)
-    output, _ = enhancer.enhance(img, outscale=args.outscale)
+    enhancer = RealESRGANer(scale=scale, model=model, model_path=model_path, tile=0, tile_pad=10, pre_pad=0, half=False, device=device)
+    output, _ = enhancer.enhance(img, scale)
     
     # cv2.imshow('output', output)
     output_path = args.output

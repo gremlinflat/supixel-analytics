@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "Unedited-27.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 32.6549980049805,
+    "rrdb_psnr": 32.92383109429463,
+    "srvgg_ssim": 0.8573355721586888,
+    "rrdb_ssim": 0.8597979259968334
+  },
+  {
+    "filename": "6BC23BE8-0278-400B-A4B4-D442324F235B.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 25.47954275843649,
+    "rrdb_psnr": 26.928015561972817,
+    "srvgg_ssim": 0.8475868892407453,
+    "rrdb_ssim": 0.8694578795841684
+  },
+  {
+    "filename": "EXP-207680-edit.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 30.64388834383903,
+    "rrdb_psnr": 32.34616624301281,
+    "srvgg_ssim": 0.8826957333748761,
+    "rrdb_ssim": 0.8943031503115976
+  },
+  {
+    "filename": "1CC1DA9A-1743-4E35-9F7E-D5E7E2492969.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 33.543064201318664,
+    "rrdb_psnr": 34.37125090750323,
+    "srvgg_ssim": 0.9161913082093367,
+    "rrdb_ssim": 0.9219301941149122
+  },
+  {
+    "filename": "IMG_4946.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 25.292184589268896,
+    "rrdb_psnr": 26.112183355038177,
+    "srvgg_ssim": 0.7817379978636563,
+    "rrdb_ssim": 0.8001937120499975
+  },
+  {
+    "filename": "Unedited-64.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 35.24922352921871,
+    "rrdb_psnr": 32.86262219335721,
+    "srvgg_ssim": 0.9265100712332314,
+    "rrdb_ssim": 0.9188010090439924
+  },
+  {
+    "filename": "IMG_4193.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 30.344999157403837,
+    "rrdb_psnr": 31.264753222431256,
+    "srvgg_ssim": 0.8702392732468378,
+    "rrdb_ssim": 0.8790155258553889
+  },
+  {
+    "filename": "IMG_5707.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 26.3360775103499,
+    "rrdb_psnr": 23.18718123502583,
+    "srvgg_ssim": 0.8084737049823673,
+    "rrdb_ssim": 0.7138217392626783
+  },
+  {
+    "filename": "IMG_2192.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 26.989861442681246,
+    "rrdb_psnr": 27.498518417635395,
+    "srvgg_ssim": 0.7434334192368297,
+    "rrdb_ssim": 0.7472478637711454
+  }
+]

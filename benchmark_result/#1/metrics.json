@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "Unedited-27.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 32.65581383431407,
+    "rrdb_psnr": 32.924591467225085,
+    "srvgg_ssim": 0.8573427897615714,
+    "rrdb_ssim": 0.8598042981169117
+  },
+  {
+    "filename": "6BC23BE8-0278-400B-A4B4-D442324F235B.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 25.47954275843649,
+    "rrdb_psnr": 26.928015561972817,
+    "srvgg_ssim": 0.8475868892407453,
+    "rrdb_ssim": 0.8694578795841684
+  },
+  {
+    "filename": "EXP-207680-edit.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 30.643911396179135,
+    "rrdb_psnr": 32.346302550110984,
+    "srvgg_ssim": 0.8826936012799157,
+    "rrdb_ssim": 0.894303178690378
+  },
+  {
+    "filename": "1CC1DA9A-1743-4E35-9F7E-D5E7E2492969.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 33.54261901042412,
+    "rrdb_psnr": 34.370884637177554,
+    "srvgg_ssim": 0.9161746426585489,
+    "rrdb_ssim": 0.9219273559900544
+  },
+  {
+    "filename": "IMG_4946.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 25.292184589268896,
+    "rrdb_psnr": 26.112183355038177,
+    "srvgg_ssim": 0.7817379978636563,
+    "rrdb_ssim": 0.8001937120499975
+  },
+  {
+    "filename": "Unedited-64.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 35.25046140357319,
+    "rrdb_psnr": 32.853745307223946,
+    "srvgg_ssim": 0.9265135662164189,
+    "rrdb_ssim": 0.9187618743143271
+  },
+  {
+    "filename": "IMG_4193.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 30.345509166950603,
+    "rrdb_psnr": 31.265299915491678,
+    "srvgg_ssim": 0.8702479444716698,
+    "rrdb_ssim": 0.879018526492989
+  },
+  {
+    "filename": "IMG_5707.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 26.3360775103499,
+    "rrdb_psnr": 23.18718123502583,
+    "srvgg_ssim": 0.8084737049823673,
+    "rrdb_ssim": 0.7138217392626783
+  },
+  {
+    "filename": "IMG_2192.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 26.989897357076238,
+    "rrdb_psnr": 27.498574605293914,
+    "srvgg_ssim": 0.7434338430670714,
+    "rrdb_ssim": 0.7472492359216982
+  }
+]

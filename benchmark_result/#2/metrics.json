@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "Unedited-27.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 32.65537517538477,
+    "rrdb_psnr": 32.92420082898368,
+    "srvgg_ssim": 0.8573380250426502,
+    "rrdb_ssim": 0.8598012337599034
+  },
+  {
+    "filename": "6BC23BE8-0278-400B-A4B4-D442324F235B.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 25.47954275843649,
+    "rrdb_psnr": 26.928015561972817,
+    "srvgg_ssim": 0.8475868892407453,
+    "rrdb_ssim": 0.8694578795841684
+  },
+  {
+    "filename": "EXP-207680-edit.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 30.64387693685337,
+    "rrdb_psnr": 32.34626537618929,
+    "srvgg_ssim": 0.8826930549196543,
+    "rrdb_ssim": 0.8943027461767982
+  },
+  {
+    "filename": "1CC1DA9A-1743-4E35-9F7E-D5E7E2492969.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 33.542219194898884,
+    "rrdb_psnr": 34.371225599371876,
+    "srvgg_ssim": 0.9161726848252832,
+    "rrdb_ssim": 0.9219280338872092
+  },
+  {
+    "filename": "IMG_4946.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 25.292184589268896,
+    "rrdb_psnr": 26.112183355038177,
+    "srvgg_ssim": 0.7817379978636563,
+    "rrdb_ssim": 0.8001937120499975
+  },
+  {
+    "filename": "Unedited-64.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 35.249864304829536,
+    "rrdb_psnr": 32.85827004336436,
+    "srvgg_ssim": 0.92651307796599,
+    "rrdb_ssim": 0.918782612014004
+  },
+  {
+    "filename": "IMG_4193.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 30.34537135186926,
+    "rrdb_psnr": 31.264696098482354,
+    "srvgg_ssim": 0.8702439501227488,
+    "rrdb_ssim": 0.8790114463929806
+  },
+  {
+    "filename": "IMG_5707.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 26.3360775103499,
+    "rrdb_psnr": 23.18718123502583,
+    "srvgg_ssim": 0.8084737049823673,
+    "rrdb_ssim": 0.7138217392626783
+  },
+  {
+    "filename": "IMG_2192.jpg",
+    "upscale_factor": 4,
+    "srvgg_psnr": 26.989871601045312,
+    "rrdb_psnr": 27.49853822920099,
+    "srvgg_ssim": 0.7434332525517849,
+    "rrdb_ssim": 0.7472488480353823
+  }
+]
