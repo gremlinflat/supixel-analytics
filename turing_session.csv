@@ -1,0 +1,381 @@
+session_id,user_id,cumulative_score,question_name,question_type,question_answer,user_answer,is_correct,is_zooming
+0,BEAT MBER,4,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,b,True,False
+0,BEAT MBER,4,question_realb_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,b,b,True,False
+0,BEAT MBER,4,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,b,False,False
+0,BEAT MBER,4,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,a,True,False
+0,BEAT MBER,4,question_realb_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,b,a,False,False
+0,BEAT MBER,4,question_decoyr_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,decoy,r,b,False,False
+0,BEAT MBER,4,question_reala_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,a,a,True,False
+0,BEAT MBER,4,question_decoyg_88072552-bf73-477b-ae4b-7296afadb846.jpg,decoy,g,b,False,False
+0,BEAT MBER,4,question_decoyr_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,decoy,r,a,False,False
+0,BEAT MBER,4,question_realb_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,b,a,False,False
+1,acipuddin,1,question_decoyr_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,decoy,r,a,False,False
+1,acipuddin,1,question_decoyg_88072552-bf73-477b-ae4b-7296afadb846.jpg,decoy,g,b,False,False
+1,acipuddin,1,question_realb_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,b,a,False,False
+1,acipuddin,1,question_realb_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,b,a,False,False
+1,acipuddin,1,question_realb_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,b,a,False,False
+1,acipuddin,1,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,b,False,False
+1,acipuddin,1,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,b,True,False
+1,acipuddin,1,question_decoyg_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,decoy,g,b,False,False
+1,acipuddin,1,question_decoyr_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,decoy,r,a,False,False
+1,acipuddin,1,question_realb_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,b,none,False,False
+2,aladeen,10,question_decoyr_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,decoy,r,none,True,False
+2,aladeen,10,question_realb_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,b,b,True,True
+2,aladeen,10,question_reala_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,a,a,True,False
+2,aladeen,10,question_decoyg_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,decoy,g,none,True,False
+2,aladeen,10,question_reala_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,a,a,True,False
+2,aladeen,10,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,b,True,False
+2,aladeen,10,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,b,True,False
+2,aladeen,10,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,b,True,False
+2,aladeen,10,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,b,True,False
+2,aladeen,10,question_reala_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,a,a,True,False
+3,anonimous,6,question_reala_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,a,a,True,False
+3,anonimous,6,question_decoyg_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,decoy,g,b,False,False
+3,anonimous,6,question_decoyr_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,decoy,r,b,False,False
+3,anonimous,6,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,a,True,False
+3,anonimous,6,question_reala_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,a,b,False,False
+3,anonimous,6,question_reala_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,a,a,True,False
+3,anonimous,6,question_realb_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,b,b,True,False
+3,anonimous,6,question_reala_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,real,a,a,True,False
+3,anonimous,6,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,b,True,False
+3,anonimous,6,question_decoyr_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,decoy,r,b,False,False
+4,jomok69,5,question_decoyg_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,decoy,g,a,False,False
+4,jomok69,5,question_realb_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,b,b,True,False
+4,jomok69,5,question_reala_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,a,a,True,False
+4,jomok69,5,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,a,False,False
+4,jomok69,5,question_reala_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,a,a,True,False
+4,jomok69,5,question_realb_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,b,a,False,False
+4,jomok69,5,question_reala_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,a,b,False,False
+4,jomok69,5,question_reala_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,a,a,True,False
+4,jomok69,5,question_decoyr_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,decoy,r,a,False,False
+4,jomok69,5,question_realb_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,b,b,True,False
+5,Dhoni,5,question_realb_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,real,b,a,False,False
+5,Dhoni,5,question_reala_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,a,b,False,False
+5,Dhoni,5,question_reala_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,a,b,False,False
+5,Dhoni,5,question_realb_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,b,b,True,False
+5,Dhoni,5,question_reala_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,a,b,False,False
+5,Dhoni,5,question_realb_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,b,a,False,False
+5,Dhoni,5,question_reala_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,a,a,True,False
+5,Dhoni,5,question_realb_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,b,b,True,False
+5,Dhoni,5,question_realb_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,b,b,True,False
+5,Dhoni,5,question_reala_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,a,a,True,False
+6,HitlerWasHere,9,question_realb_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,b,b,True,False
+6,HitlerWasHere,9,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,b,True,False
+6,HitlerWasHere,9,question_realb_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,b,b,True,False
+6,HitlerWasHere,9,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,none,False,False
+6,HitlerWasHere,9,question_realb_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,b,b,True,False
+6,HitlerWasHere,9,question_realb_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,b,b,True,False
+6,HitlerWasHere,9,question_reala_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,a,a,True,False
+6,HitlerWasHere,9,question_realb_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,b,b,True,False
+6,HitlerWasHere,9,question_realb_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,b,b,True,False
+6,HitlerWasHere,9,question_reala_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,real,a,a,True,False
+7,mayonice,1,question_realb_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,b,a,False,False
+7,mayonice,1,question_reala_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,a,none,False,False
+7,mayonice,1,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,a,False,False
+7,mayonice,1,question_decoyg_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,decoy,g,a,False,False
+7,mayonice,1,question_realb_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,real,b,a,False,False
+7,mayonice,1,question_decoyg_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,decoy,g,a,False,False
+7,mayonice,1,question_decoyr_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,decoy,r,none,True,False
+7,mayonice,1,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,a,False,False
+7,mayonice,1,question_reala_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,a,b,False,False
+7,mayonice,1,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,b,False,False
+8,Dhea,7,question_decoyr_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,decoy,r,none,True,False
+8,Dhea,7,question_reala_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,a,a,True,False
+8,Dhea,7,question_realb_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,b,b,True,False
+8,Dhea,7,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,a,True,False
+8,Dhea,7,question_realb_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,b,a,False,False
+8,Dhea,7,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,none,False,False
+8,Dhea,7,question_reala_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,a,a,True,False
+8,Dhea,7,question_realb_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,b,b,True,False
+8,Dhea,7,question_reala_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,a,b,False,False
+8,Dhea,7,question_reala_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,a,a,True,False
+9,anonimous,6,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,a,True,False
+9,anonimous,6,question_realb_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,real,b,none,False,False
+9,anonimous,6,question_reala_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,a,a,True,False
+9,anonimous,6,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,none,False,False
+9,anonimous,6,question_realb_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,b,b,True,False
+9,anonimous,6,question_realb_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,b,a,False,False
+9,anonimous,6,question_realb_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,b,b,True,False
+9,anonimous,6,question_reala_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,a,a,True,False
+9,anonimous,6,question_realb_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,b,b,True,False
+9,anonimous,6,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,none,False,False
+10,DitolakAWS,7,question_decoyg_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,decoy,g,a,False,False
+10,DitolakAWS,7,question_realb_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,b,b,True,False
+10,DitolakAWS,7,question_reala_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,a,b,False,False
+10,DitolakAWS,7,question_realb_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,b,none,False,False
+10,DitolakAWS,7,question_reala_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,a,a,True,False
+10,DitolakAWS,7,question_reala_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,real,a,a,True,False
+10,DitolakAWS,7,question_realb_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,b,b,True,False
+10,DitolakAWS,7,question_decoyr_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,decoy,r,none,True,False
+10,DitolakAWS,7,question_decoyg_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,decoy,g,none,True,False
+10,DitolakAWS,7,question_decoyg_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,decoy,g,none,True,False
+11,sushitrash,9,question_decoyg_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,decoy,g,a,False,False
+11,sushitrash,9,question_reala_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,a,a,True,False
+11,sushitrash,9,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,b,False,False
+11,sushitrash,9,question_realb_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,b,b,True,False
+11,sushitrash,9,question_realb_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,b,a,False,False
+11,sushitrash,9,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,b,False,False
+11,sushitrash,9,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,b,True,False
+11,sushitrash,9,question_decoyg_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,decoy,g,b,False,False
+11,sushitrash,9,question_reala_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,a,b,False,False
+11,sushitrash,9,question_realb_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,b,b,True,False
+12,x,4,question_reala_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,a,none,False,False
+12,x,4,question_reala_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,a,b,False,False
+12,x,4,question_reala_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,a,a,True,False
+12,x,4,question_decoyg_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,decoy,g,a,False,False
+12,x,4,question_reala_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,a,a,True,False
+12,x,4,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,a,True,False
+12,x,4,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,none,False,False
+12,x,4,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,none,False,False
+12,x,4,question_decoyr_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,decoy,r,a,False,False
+12,x,4,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,b,True,False
+13,natris,9,question_realb_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,b,b,True,False
+13,natris,9,question_reala_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,a,a,True,False
+13,natris,9,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,b,True,False
+13,natris,9,question_decoyr_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,decoy,r,a,False,False
+13,natris,9,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,b,True,False
+13,natris,9,question_decoyg_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,decoy,g,none,True,False
+13,natris,9,question_reala_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,a,a,True,False
+13,natris,9,question_realb_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,b,b,True,False
+13,natris,9,question_reala_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,a,a,True,False
+13,natris,9,question_decoyg_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,decoy,g,none,True,False
+14,SuperPiEm,1,question_reala_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,a,b,False,False
+14,SuperPiEm,1,question_reala_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,a,b,False,False
+14,SuperPiEm,1,question_realb_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,b,a,False,False
+14,SuperPiEm,1,question_decoyg_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,decoy,g,none,True,False
+14,SuperPiEm,1,question_realb_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,b,a,False,False
+14,SuperPiEm,1,question_reala_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,a,b,False,False
+14,SuperPiEm,1,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,none,False,False
+14,SuperPiEm,1,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,b,False,False
+14,SuperPiEm,1,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,a,False,False
+14,SuperPiEm,1,question_reala_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,a,b,False,False
+15,labqi,8,question_realb_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,real,b,b,True,False
+15,labqi,8,question_realb_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,b,b,True,False
+15,labqi,8,question_reala_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,a,a,True,False
+15,labqi,8,question_reala_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,a,none,False,False
+15,labqi,8,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,a,True,False
+15,labqi,8,question_realb_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,b,b,True,False
+15,labqi,8,question_decoyg_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,decoy,g,none,True,False
+15,labqi,8,question_realb_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,b,b,True,False
+15,labqi,8,question_decoyg_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,decoy,g,a,False,False
+15,labqi,8,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,b,True,False
+16,apahayooo,5,question_reala_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,a,b,False,False
+16,apahayooo,5,question_realb_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,b,a,False,False
+16,apahayooo,5,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,a,True,False
+16,apahayooo,5,question_reala_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,a,a,True,False
+16,apahayooo,5,question_realb_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,b,a,False,False
+16,apahayooo,5,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,b,True,False
+16,apahayooo,5,question_reala_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,a,a,True,False
+16,apahayooo,5,question_reala_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,a,a,True,False
+16,apahayooo,5,question_decoyg_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,decoy,g,a,False,False
+16,apahayooo,5,question_realb_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,b,a,False,False
+17,qhisty rafidah,7,question_reala_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,a,a,True,False
+17,qhisty rafidah,7,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,b,True,False
+17,qhisty rafidah,7,question_decoyg_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,decoy,g,b,False,False
+17,qhisty rafidah,7,question_decoyg_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,decoy,g,none,True,False
+17,qhisty rafidah,7,question_realb_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,b,b,True,False
+17,qhisty rafidah,7,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,a,False,False
+17,qhisty rafidah,7,question_decoyg_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,decoy,g,none,True,False
+17,qhisty rafidah,7,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,b,True,False
+17,qhisty rafidah,7,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,none,False,False
+17,qhisty rafidah,7,question_reala_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,a,a,True,False
+18,Fahri,5,question_realb_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,b,b,True,False
+18,Fahri,5,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,a,False,False
+18,Fahri,5,question_realb_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,b,b,True,False
+18,Fahri,5,question_decoyr_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,decoy,r,b,False,False
+18,Fahri,5,question_reala_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,a,b,False,False
+18,Fahri,5,question_reala_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,a,a,True,False
+18,Fahri,5,question_realb_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,b,b,True,False
+18,Fahri,5,question_decoyr_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,decoy,r,b,False,False
+18,Fahri,5,question_reala_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,a,a,True,False
+18,Fahri,5,question_reala_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,real,a,b,False,False
+19,my_ig_username,5,question_realb_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,b,none,False,False
+19,my_ig_username,5,question_realb_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,b,b,True,False
+19,my_ig_username,5,question_decoyr_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,decoy,r,none,True,False
+19,my_ig_username,5,question_decoyg_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,decoy,g,b,False,False
+19,my_ig_username,5,question_realb_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,b,a,False,False
+19,my_ig_username,5,question_realb_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,b,a,False,False
+19,my_ig_username,5,question_reala_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,a,a,True,False
+19,my_ig_username,5,question_realb_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,b,b,True,False
+19,my_ig_username,5,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,a,True,False
+19,my_ig_username,5,question_decoyg_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,decoy,g,b,False,False
+20,"thanks bro adam, its very helpful 🙏",2,question_realb_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,b,b,True,False
+20,"thanks bro adam, its very helpful 🙏",2,question_reala_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,a,a,True,False
+20,"thanks bro adam, its very helpful 🙏",2,question_realb_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,real,b,a,False,False
+20,"thanks bro adam, its very helpful 🙏",2,question_realb_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,b,a,False,False
+20,"thanks bro adam, its very helpful 🙏",2,question_reala_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,a,a,True,False
+20,"thanks bro adam, its very helpful 🙏",2,question_reala_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,a,a,True,False
+20,"thanks bro adam, its very helpful 🙏",2,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,a,False,False
+20,"thanks bro adam, its very helpful 🙏",2,question_reala_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,a,a,True,False
+20,"thanks bro adam, its very helpful 🙏",2,question_realb_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,b,a,False,False
+20,"thanks bro adam, its very helpful 🙏",2,question_realb_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,b,a,False,False
+21,anonimous,4,question_reala_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,a,a,True,False
+21,anonimous,4,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,a,False,False
+21,anonimous,4,question_realb_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,b,a,False,False
+21,anonimous,4,question_reala_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,a,a,True,False
+21,anonimous,4,question_realb_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,b,a,False,False
+21,anonimous,4,question_decoyr_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,decoy,r,a,False,False
+21,anonimous,4,question_reala_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,a,a,True,False
+21,anonimous,4,question_decoyg_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,decoy,g,a,False,False
+21,anonimous,4,question_realb_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,b,b,True,False
+21,anonimous,4,question_decoyr_88072552-bf73-477b-ae4b-7296afadb846.jpg,decoy,r,b,False,False
+22,anonimous,5,question_realb_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,b,a,False,False
+22,anonimous,5,question_realb_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,b,b,True,False
+22,anonimous,5,question_reala_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,a,none,False,False
+22,anonimous,5,question_decoyg_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,decoy,g,none,True,False
+22,anonimous,5,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,a,False,False
+22,anonimous,5,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,none,False,False
+22,anonimous,5,question_realb_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,b,b,True,False
+22,anonimous,5,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,b,True,False
+22,anonimous,5,question_decoyr_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,decoy,r,a,False,False
+22,anonimous,5,question_decoyg_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,decoy,g,none,True,False
+23,Sailorstar,5,question_reala_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,a,b,False,False
+23,Sailorstar,5,question_realb_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,b,b,True,False
+23,Sailorstar,5,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,a,True,False
+23,Sailorstar,5,question_reala_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,a,none,False,False
+23,Sailorstar,5,question_reala_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,a,a,True,False
+23,Sailorstar,5,question_reala_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,a,a,True,False
+23,Sailorstar,5,question_decoyr_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,decoy,r,b,False,False
+23,Sailorstar,5,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,a,False,False
+23,Sailorstar,5,question_realb_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,b,b,True,False
+23,Sailorstar,5,question_decoyg_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,decoy,g,b,False,False
+24,anonimous,5,question_reala_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,a,b,False,False
+24,anonimous,5,question_reala_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,a,a,True,False
+24,anonimous,5,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,none,False,False
+24,anonimous,5,question_reala_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,real,a,a,True,False
+24,anonimous,5,question_realb_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,b,a,False,False
+24,anonimous,5,question_reala_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,a,a,True,False
+24,anonimous,5,question_decoyg_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,decoy,g,b,False,False
+24,anonimous,5,question_realb_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,b,none,False,False
+24,anonimous,5,question_reala_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,a,a,True,False
+24,anonimous,5,question_reala_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,a,a,True,False
+25,Tania,6,question_realb_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,b,none,False,False
+25,Tania,6,question_reala_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,real,a,a,True,False
+25,Tania,6,question_reala_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,a,a,True,False
+25,Tania,6,question_decoyr_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,decoy,r,b,False,False
+25,Tania,6,question_decoyg_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,decoy,g,a,False,False
+25,Tania,6,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,a,True,False
+25,Tania,6,question_reala_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,a,a,True,False
+25,Tania,6,question_realb_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,b,b,True,False
+25,Tania,6,question_realb_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,b,a,False,False
+25,Tania,6,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,b,True,False
+26,Dixie Normous,7,question_realb_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,b,none,False,False
+26,Dixie Normous,7,question_realb_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,b,b,True,False
+26,Dixie Normous,7,question_realb_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,b,b,True,False
+26,Dixie Normous,7,question_realb_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,b,b,True,False
+26,Dixie Normous,7,question_reala_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,a,a,True,False
+26,Dixie Normous,7,question_reala_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,a,none,False,False
+26,Dixie Normous,7,question_realb_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,real,b,b,True,False
+26,Dixie Normous,7,question_reala_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,a,a,True,False
+26,Dixie Normous,7,question_reala_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,a,none,False,False
+26,Dixie Normous,7,question_reala_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,a,a,True,False
+27,anonimous,9,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,none,False,False
+27,anonimous,9,question_decoyr_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,decoy,r,none,True,False
+27,anonimous,9,question_reala_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,real,a,a,True,False
+27,anonimous,9,question_decoyr_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,decoy,r,none,True,False
+27,anonimous,9,question_decoyg_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,decoy,g,none,True,False
+27,anonimous,9,question_decoyg_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,decoy,g,none,True,False
+27,anonimous,9,question_realb_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,real,b,b,True,False
+27,anonimous,9,question_reala_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,a,a,True,False
+27,anonimous,9,question_decoyg_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,decoy,g,none,True,False
+27,anonimous,9,question_realb_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,b,b,True,False
+28,anonimous,4,question_reala_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,a,a,True,False
+28,anonimous,4,question_realb_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,b,a,False,False
+28,anonimous,4,question_decoyr_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,decoy,r,a,False,False
+28,anonimous,4,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,a,True,False
+28,anonimous,4,question_realb_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,b,a,False,False
+28,anonimous,4,question_decoyr_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,decoy,r,b,False,False
+28,anonimous,4,question_reala_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,a,a,True,False
+28,anonimous,4,question_reala_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,a,a,True,False
+28,anonimous,4,question_realb_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,real,b,a,False,False
+28,anonimous,4,question_realb_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,b,a,False,False
+29,Gfr,6,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,a,False,False
+29,Gfr,6,question_realb_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,b,b,True,False
+29,Gfr,6,question_reala_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,a,a,True,False
+29,Gfr,6,question_reala_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,a,b,False,False
+29,Gfr,6,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,a,True,False
+29,Gfr,6,question_realb_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,b,b,True,False
+29,Gfr,6,question_reala_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,a,a,True,False
+29,Gfr,6,question_realb_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,b,a,False,False
+29,Gfr,6,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,a,False,False
+29,Gfr,6,question_reala_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,real,a,a,True,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,a,True,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_reala_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,a,a,True,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_realb_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,b,b,True,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_reala_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,a,a,True,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,a,False,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_realb_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,b,b,True,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_reala_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,a,a,True,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_decoyg_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,decoy,g,b,False,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_decoyg_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,decoy,g,b,False,False
+30,oakwdoawkdoawkdoawkdowakdowa,7,question_reala_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,a,a,True,False
+31,p,3,question_realb_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,b,b,True,False
+31,p,3,question_realb_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,b,b,True,False
+31,p,3,question_realb_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,b,a,False,False
+31,p,3,question_reala_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,a,none,False,False
+31,p,3,question_decoyg_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,decoy,g,b,False,False
+31,p,3,question_reala_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,a,b,False,False
+31,p,3,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,b,True,False
+31,p,3,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,b,False,False
+31,p,3,question_decoyg_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,decoy,g,b,False,False
+31,p,3,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,a,False,False
+32,DonBosco,7,question_realb_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,b,b,True,False
+32,DonBosco,7,question_decoyr_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,decoy,r,b,False,False
+32,DonBosco,7,question_decoyr_aeb5ed55-799b-44ed-a621-b2186fac21d9.jpg,decoy,r,b,False,False
+32,DonBosco,7,question_reala_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,a,a,True,False
+32,DonBosco,7,question_realb_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,b,b,True,False
+32,DonBosco,7,question_realb_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,b,b,True,False
+32,DonBosco,7,question_realb_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,b,b,True,False
+32,DonBosco,7,question_realb_bcb51a58-9cee-4e04-b830-8baf47f454b5.jpg,real,b,b,True,False
+32,DonBosco,7,question_realb_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,b,b,True,False
+32,DonBosco,7,question_decoyr_e1b2111d-2ba1-40cf-a692-3540d25567c4.jpg,decoy,r,a,False,False
+33,jomok69,3,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,b,True,False
+33,jomok69,3,question_reala_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,a,a,True,False
+33,jomok69,3,question_realb_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,b,b,True,False
+33,jomok69,3,question_realb_a07b89a4-76cd-4b62-8e6c-e9930002e0e3.jpg,real,b,a,False,False
+33,jomok69,3,question_reala_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,a,b,False,False
+33,jomok69,3,question_realb_88072552-bf73-477b-ae4b-7296afadb846.jpg,real,b,a,False,False
+33,jomok69,3,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,a,False,False
+33,jomok69,3,question_decoyg_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,decoy,g,a,False,False
+33,jomok69,3,question_reala_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,a,b,False,False
+33,jomok69,3,question_realb_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,b,a,False,False
+34,Cilla,8,question_realb_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,b,b,True,False
+34,Cilla,8,question_reala_69a7765a-1968-43a8-8650-b1edc939ec1b.jpg,real,a,a,True,False
+34,Cilla,8,question_decoyr_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,decoy,r,none,True,False
+34,Cilla,8,question_realb_408a8b39-d357-4eae-ad9f-fccc2b5fe967.jpg,real,b,b,True,False
+34,Cilla,8,question_decoyg_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,decoy,g,none,True,False
+34,Cilla,8,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,b,False,False
+34,Cilla,8,question_realb_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,b,b,True,False
+34,Cilla,8,question_reala_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,a,a,True,False
+34,Cilla,8,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,a,False,False
+34,Cilla,8,question_reala_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,a,a,True,False
+35,Ayamrebus,7,question_reala_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,a,a,True,False
+35,Ayamrebus,7,question_decoyr_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,decoy,r,none,True,False
+35,Ayamrebus,7,question_realb_5cda2bbf-80f3-4087-8615-1926f894b348.jpg,real,b,none,False,False
+35,Ayamrebus,7,question_realb_cec11bfe-d151-4bfa-8247-3348a797a193.jpg,real,b,none,False,False
+35,Ayamrebus,7,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,a,True,False
+35,Ayamrebus,7,question_decoyg_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,decoy,g,b,False,False
+35,Ayamrebus,7,question_realb_9f65a93f-acef-4eba-83ee-0f859a2eb197.JPG,real,b,b,True,False
+35,Ayamrebus,7,question_reala_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,a,a,True,False
+35,Ayamrebus,7,question_reala_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,a,a,True,False
+35,Ayamrebus,7,question_realb_c7135b21-416e-4de5-9b28-8ac41b76a09c.jpg,real,b,b,True,False
+36,rido.h01,7,question_reala_28e437b9-f7de-4547-a7ad-1ab76fc6aec3.JPG,real,a,a,True,False
+36,rido.h01,7,question_decoyg_468da7e3-aaeb-4c2b-ba3e-5fd9f6119214.jpg,decoy,g,b,False,False
+36,rido.h01,7,question_reala_dd6769ec-e3de-433d-8438-8a5f1284ccc9.jpg,real,a,a,True,False
+36,rido.h01,7,question_reala_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,a,a,True,False
+36,rido.h01,7,question_reala_b00b98f4-cd7f-409a-8b80-113fd0460aa3.JPG,real,a,a,True,False
+36,rido.h01,7,question_realb_a7c49842-8f2e-4559-a8db-76f2100e4481.jpg,real,b,b,True,False
+36,rido.h01,7,question_reala_117bc6ab-216a-41be-94bd-d9d64fbd9eef.jpg,real,a,a,True,False
+36,rido.h01,7,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,a,True,False
+36,rido.h01,7,question_decoyr_6704da00-8487-4b9f-8b21-0133759d94d8.JPG,decoy,r,a,False,False
+36,rido.h01,7,question_reala_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,real,a,b,False,False
+37,Hazamals,7,question_realb_2dc0d73a-0ebb-4b3b-ba25-508a230fd16b.jpg,real,b,b,True,False
+37,Hazamals,7,question_realb_ca2193cb-79a5-42c8-8fc6-789bdf30c5db.jpg,real,b,b,True,False
+37,Hazamals,7,question_realb_b1d4e468-1179-4d95-a4a4-88809afd05a5.jpg,real,b,b,True,False
+37,Hazamals,7,question_reala_c8a4df2d-4c91-4fcd-8f92-9f14e350abe6.jpg,real,a,none,False,False
+37,Hazamals,7,question_reala_0df325a8-51ee-4b80-91e3-e16845d14f15.jpg,real,a,a,True,False
+37,Hazamals,7,question_decoyr_b4c19e27-f0c8-42f4-a7c1-fb7b44cec840.JPG,decoy,r,b,False,False
+37,Hazamals,7,question_reala_b0b11349-4cf6-4ec4-9f1b-e221781d0d1c.jpg,real,a,a,True,False
+37,Hazamals,7,question_reala_a0d9fae0-95cb-496c-9e4d-877277823cef.JPG,real,a,none,False,False
+37,Hazamals,7,question_realb_7cfce00a-59bb-48bc-9fd2-4ed8635568f2.jpg,real,b,b,True,False
+37,Hazamals,7,question_reala_3babb30f-ff2c-4a1b-809c-ef177bf3561d.jpg,real,a,a,True,False
